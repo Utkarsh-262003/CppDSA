@@ -20,6 +20,6 @@ int main(){
   }
   cout<<"Enter Key :";
   cin>>key;
-  cout<<"index :"<<BinarySearch(arr[],n,key);
+  cout<<"index :"<<BinarySearch(arr,n,key);
 
 }
